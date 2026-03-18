@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Product Manager, Notifications",
+    "company": "Spring Health",
+    "location": "New York City Metropolitan Area",
+    "locationType": "Hybrid (2-3 days/week in office)",
+    "posted": "2025-12-17",
+    "postedAgo": "13 hours ago",
+    "salaryMin": 172400,
+    "salaryMax": 215500,
+    "salaryCurrency": "USD",
+    "salaryPeriod": "year",
+    "industry": "Mental Health Care",
+    "category": "Mental Health Tech",
+    "employmentType": "Full-time",
+    "experienceLevel": "Mid-Senior level",
+    "experienceYears": "5-7+",
+    "description": "Own the vision, roadmap, and execution of Spring Health's unified notifications platform. Transform Spring's fragmented communication systems into a scalable, reliable, and self-service platform.",
+    "keyResponsibilities": [
+      "Own strategy, roadmap, and execution of unified notifications platform",
+      "Define logical communication models and data contracts",
+      "Partner with Engineering to consolidate multiple systems",
+      "Build self-service tooling for internal teams",
+      "Implement monitoring and observability"
+    ],
+    "requirements": [
+      "5-7+ years of product management experience",
+      "3+ years on platform/infrastructure products",
+      "Technical fluency with event-driven architectures",
+      "Experience with communications platforms (Iterable preferred)",
+      "Strong influence without authority"
+    ],
+    "benefits": [
+      "Health, Dental, Vision (day 1)",
+      "401(k) match up to 2%",
+      "Free therapy/coaching access",
+      "18 weeks parental leave (birthing)",
+      "$1,000 professional development/year",
+      "Stock options"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/senior-product-manager-notifications-at-spring-health-4344641999"
+  },
+  {
+    "id": 2,
+    "title": "Associate Director, Product Data Science",
+    "company": "Spring Health",
+    "location": "Remote",
+    "locationType": "Remote",
+    "posted": "2025-12-17",
+    "postedAgo": "24 hours ago",
+    "salaryMin": 190000,
+    "salaryMax": 232500,
+    "salaryCurrency": "USD",
+    "salaryPeriod": "year",
+    "industry": "Mental Health Care",
+    "category": "Mental Health Tech",
+    "employmentType": "Full-time",
+    "experienceLevel": "Senior level",
+    "experienceYears": "10+",
+    "description": "Lead the product data science team at Spring Health, focusing on discovering growth opportunities through experimentation and enabling the R&D team to execute on them.",
+    "keyResponsibilities": [
+      "Set vision for product data science driving growth",
+      "Partner with Product, Design, and R&D teams on metric tree",
+      "Design and refine product data science team operations",
+      "Manage and develop team of data scientists",
+      "Design experimentation and measurement frameworks",
+      "Collaborate on KPI implementation"
+    ],
+    "requirements": [
+      "10+ years in analytics or data science roles",
+      "3+ years managing data scientists or product analysts",
+      "Deep experience with A/B testing and experimentation",
+      "Comfortable owning metric tree/KPI hierarchy",
+      "Fluent in growth thinking and funnel analysis",
+      "Proficient in SQL and Python",
+      "Experience with modern data stack (dbt, Looker)"
+    ],
+    "benefits": [
+      "Health, Dental, Vision (day 1)",
+      "401(k) match up to 2%",
+      "Free therapy/coaching access",
+      "18 weeks parental leave (birthing)",
+      "$1,000 professional development/year",
+      "Stock options"
+    ],
+    "url": "https://www.purpose.jobs/discover/companies/spring-health/jobs/63750382-associate-director-product-data-science"
+  },
+  {
+    "id": 3,
+    "title": "Director of Product Management, Patient Experience",
+    "company": "OpenLoop",
+    "location": "Des Moines, IA / Remote",
+    "locationType": "Remote or HQ",
+    "posted": "2025-11-14",
+    "postedAgo": "34 days ago",
+    "salaryMin": null,
+    "salaryMax": null,
+    "salaryCurrency": "USD",
+    "salaryPeriod": "year",
+    "industry": "Telehealth / Healthcare Technology",
+    "category": "Mental Health Adjacent",
+    "employmentType": "Full-time",
+    "experienceLevel": "Director level",
+    "experienceYears": "8+",
+    "description": "Lead strategy and execution for patient-facing applications including patient intake funnel, patient portal, and customer insights portal. Manage and mentor a team of product managers.",
+    "keyResponsibilities": [
+      "Own vision, roadmap, and OKRs of patient experience products",
+      "Optimize patient intake funnel and portal",
+      "Lead creation and launch of customer insights portal",
+      "Work across engineering, design, marketing, sales teams",
+      "Lead annual and quarterly planning",
+      "Manage and coach team of 2 product managers"
+    ],
+    "requirements": [
+      "Bachelor's degree in Business, Engineering, CS or related",
+      "8+ years in product management (3+ in leadership)",
+      "Success in healthtech and marketing platform SaaS preferred",
+      "Track record of product launches and GTM execution",
+      "Skilled at aligning diverse stakeholders",
+      "Experience managing and mentoring product managers"
+    ],
+    "benefits": [
+      "Medical, Dental, and Vision plans",
+      "Flexible Spending/Health Savings Accounts",
+      "Flexible PTO",
+      "401(k) + Company Match",
+      "Life Insurance, Pet insurance"
+    ],
+    "url": "https://openloophealth.com/careers"
+  }
+]
